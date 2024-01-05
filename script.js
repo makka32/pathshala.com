@@ -5,7 +5,7 @@ let currentUser = null;
 
 // Array of user credentials
 const users = [
-    { username: 'tafhim6', password: 'm3l1', videoLink: 'https://makka32.github.io/video.com/' },
+    { username: 'tafhim6', password: 'm3l1', videoLink: 'https://dai.ly/k2Ed0rGqIPCSrrzPmqh' },
     { username: 'yeasib', password: 'ym3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQPf0HP91KuOBC6H?e=skgyd6'},
     { username: 'yeasib', password: 'ym3l1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQIyx_7ECwWnHlwl?e=7QXgwb'}, 
     { username: 'yeasib', password: 'yjl1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQElGL4boxC_caE-?e=eF0uXG'},
