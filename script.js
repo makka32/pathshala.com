@@ -6,13 +6,14 @@ let currentUser = null;
 // Array of user credentials
 const users = [
     { username: 'tafhim6', password: 'm3l1', videoLink: 'https://drive.google.com/file/d/19XENxvzOmsZB7qanzhE2f0I3JSBTePTM/view?usp=drive_link' },
-    { username: 'yeasib', password: 'ym3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQOZnj6DZjB7KTGG?e=1tgQFI'},
-    { username: 'yeasib', password: 'ym3l1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQJr1wsCUfabNZSI?e=YgtrRz'}, 
-    { username: 'yeasib', password: 'yjl1', videoLink: 'https://1drv.ms/f/s!ApCuyg6c8MEzmQalQ3hrTVrESj0Y?e=RBVke3'},
-     { username: 'yeasib', password: 'yjp1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQQ6jR0D9TSRUmnh?e=ZtvBn9'},
-    { username: 'mowmita', password: 'mjl1', videoLink: 'https://1drv.ms/f/s!ApCuyg6c8MEzmQalQ3hrTVrESj0Y?e=RBVke3' },
-     { username: 'mowmita', password: 'mm3l1', videoLink:'https://1drv.ms/v/s!ApCuyg6c8MEzmQJr1wsCUfabNZSI?e=d1g5xT'},
-    { username: 'mowmita', password: 'mm3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQOZnj6DZjB7KTGG?e=HGlTOc'},
+    { username: 'yeasib', password: 'ym3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQPf0HP91KuOBC6H?e=skgyd6'},
+    { username: 'yeasib', password: 'ym3l1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQIyx_7ECwWnHlwl?e=7QXgwb'}, 
+    { username: 'yeasib', password: 'yjl1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQElGL4boxC_caE-?e=eF0uXG'},
+     { username: 'yeasib', password: 'yjp1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQTPlNm7zrna-K3f?e=m67z9g'},
+    { username: 'mowmita', password: 'mjl1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQElGL4boxC_caE-?e=eF0uXG' },
+     { username: 'mowmita', password: 'mm3l1', videoLink:'https://1drv.ms/v/s!ApCuyg6c8MEzmQIyx_7ECwWnHlwl?e=7QXgwb'},
+    { username: 'mowmita', password: 'mm3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQPf0HP91KuOBC6H?e=skgyd6'},
+    { username: 'mowmita', password: 'm', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQdSLYm9F2ZJNiCi?e=xwkbAJ'},
     
     // Add more users as needed
 ];
