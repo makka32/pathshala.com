@@ -6,11 +6,14 @@ let currentUser = null;
 // Array of user credentials
 const users = [
     { username: 'tafhim6', password: 'm3l1', videoLink: 'https://drive.google.com/file/d/19XENxvzOmsZB7qanzhE2f0I3JSBTePTM/view?usp=drive_link' },
-    { username: 'yeasib', password: 'm3l2', videoLink: 'https://drive.google.com/file/d/19XENxvzOmsZB7qanzhE2f0I3JSBTePTM/view?usp=drive_link'},
-    { username: 'yeasib', password: 'jl1', videoLink: 'https://drive.google.com/file/d/19XENxvzOmsZB7qanzhE2f0I3JSBTePTM/view?usp=drive_link'},
-    { username: 'mowmita', password: 'jl1', videoLink: 'https://drive.google.com/file/d/1O4qK00xd-xArTL2mZo8s28bxwU9VUZmC/view?usp=drive_link' },
-     { username: 'mowmita', password: 'jl2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQC8SfXRNNZDwrhZ?e=ftiTIb' },
-    { username: 'mowmita', password: 'jl3', videoLink: 'https://sites.google.com/view/tafhimulislam/trial-01' },
+    { username: 'yeasib', password: 'm3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQOZnj6DZjB7KTGG?e=HGlTOc'},
+    { username: 'yeasib', password: 'm3l1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQJr1wsCUfabNZSI?e=d1g5xT'},
+    { username: 'yeasib', password: 'jl1', videoLink: 'https://1drv.ms/f/s!ApCuyg6c8MEzmQalQ3hrTVrESj0Y?e=RBVke3'},
+     { username: 'yeasib', password: 'jp1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQQ6jR0D9TSRUmnh?e=ZtvBn9'},
+    { username: 'mowmita', password: 'jl1', videoLink: 'https://1drv.ms/f/s!ApCuyg6c8MEzmQalQ3hrTVrESj0Y?e=RBVke3' },
+     { username: 'mowmita', password: 'm3l1', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQJr1wsCUfabNZSI?e=d1g5xT'},
+    { username: 'mowmita', password: 'm3l2', videoLink: 'https://1drv.ms/v/s!ApCuyg6c8MEzmQOZnj6DZjB7KTGG?e=HGlTOc'},
+    
     // Add more users as needed
 ];
 
